@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../SmartRecipeBook/SmartRecipeBook.csproj" />
+    <ProjectReference Include="../SmartRecipeBook.csproj" />
   </ItemGroup>
 
 </Project>
